@@ -1,1 +1,13 @@
+{
+  "name": "clinic-reservation",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "googleapis": "^126.0.0"
+  }
+}
 
